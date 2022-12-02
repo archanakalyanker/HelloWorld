@@ -5,6 +5,7 @@ public class FirstCommit {
 		// TODO Auto-generated method stub
     System.out.println("This is first change/commit");
     System.out.println("This is second change");
+    System.out.println("making changes on NewBranch");
 	}
 
 }
